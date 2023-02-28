@@ -1,8 +1,7 @@
 
 
 - 🌱 I’m currently learning Java and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with  someone 
 - 💬 Ask me about my hobby xD
 - 📫 How to reach me: 
 - 😄 Pronouns: D -I - T - O
