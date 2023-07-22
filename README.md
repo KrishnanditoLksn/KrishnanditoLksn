@@ -9,4 +9,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnanditoLksn&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnanditoLksn&hide=jupyter)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrishnanditoLksn&theme=dark)](https://git.io/streak-stats)
+
