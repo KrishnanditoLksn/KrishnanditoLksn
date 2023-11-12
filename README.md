@@ -1,4 +1,4 @@
-<h1 align="center">Hello all , My name is Dito and i'am  a Mobile tech Enthusiast</h1>
+<h1 align="center">Hello all , My name is Dito and i'am  a Mobile tech Enthusiast and Undergraduate Informatics Student at Sanata Dharma University</h1>
 
 ###
 
