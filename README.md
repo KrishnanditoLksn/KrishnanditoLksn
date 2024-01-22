@@ -47,6 +47,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnanditoLksn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+![Leetcode Stats](https://leetcard.KrishnanditoLksn/KrishnanditoLksn)
+
 ###
 
 <h2 align="left">How to reach me :</h2>
