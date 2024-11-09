@@ -9,8 +9,8 @@
 ---
 
 ### Languages and Tools:
-
-<img alt="Android Studio" width="30px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
+<p align = "left">
+ <img alt="Android Studio" width="30px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
 <img alt="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin--v3.png" />
 <img  alt="Java" width=30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
@@ -23,6 +23,7 @@
 <img  alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img  alt="js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
+</p>
 
 
 --- 
