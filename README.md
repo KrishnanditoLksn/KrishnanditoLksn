@@ -10,18 +10,18 @@
 
 ### Languages and Tools:
 
-<img alt="Android Studio" width="50px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
-<img alt="Kotlin" width="50px" src="https://img.icons8.com/color/48/000000/kotlin--v3.png" />
-<img  alt="Java" width=50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img alt="HTML5" width="50px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img alt="CSS3" width="50px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img  alt="postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img alt="Git" width="50px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img alt="GitHub" width="50px" src="https://img.icons8.com/fluent/48/000000/github.png" />
-<img alt="Firebase" width="50px" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img  alt="sqlite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img  alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img  alt="js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="Android Studio" width="30px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
+<img alt="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin--v3.png" />
+<img  alt="Java" width=30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img  alt="postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img alt="GitHub" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />
+<img alt="Firebase" width="30px" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img  alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img  alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img  alt="js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
 
