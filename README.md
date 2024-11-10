@@ -1,18 +1,21 @@
 # Emmanuel Krishnandito Laksana
+
+---
+
 ## Hello there! , Halo sedulur , Hallo Semua 👋
 
 #### I am Dito from University Sanata Dharma , majoring in Informatics.Currently, learning World of Android Development. very passionate about learning new things and always open to new opportunities.For me coding like an art that can be created and developed in many ways.To solve a problem with code is a challenge that I always look forward to.
 
+---
 
----- 
 ### Programming Languages:
 <p align="left">
 <img alt="Kotlin" width="50px" src="https://img.icons8.com/color/48/000000/kotlin--v3.png" />
 <img  alt="Java" width=50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img alt="HTML5" width="50px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img alt="CSS3" width="50px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img  alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img  alt="js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="php" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+<img  alt="cpp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 ### Tools:
@@ -25,8 +28,17 @@
 ### Database Management:
 <p align="left">
 <img  alt="sqlite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img  alt="mysql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </p>
 
+
+### Frameworks:
+<p align="left">
+<img alt="laravel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+<img alt="react" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img alt="express" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+<img alt="bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+</p>
 
 ### Supported Tools:
 <p align="left">
