@@ -76,7 +76,7 @@ Remember guys all need process and time to be a good coder , so keep learning an
 
 ### For me , project is a way to learn and develop my coding skills , so here is some of my project
 ### My Latest Project :
-- [Ceritain Cerita Story App](https://github.com/KrishnanditoLksn/CeritainCerita)  (On Progress)
+- [Ceritain Cerita Story App](https://github.com/KrishnanditoLksn/CeritainCerita)  (October 2024 - November 2024)
 - [Alpaca Discord Bot](https://github.com/KrishnanditoLksn/Alpaca)  (April 2023 - June 2024)
 - [Sorting Algorithm Visualizer](https://github.com/KrishnanditoLksn/sort_viz) (July 2024 - August 2024)
 - [Ascipleus Cancer Detection](https://github.com/KrishnanditoLksn/AslepsiusCancerDetection) (October 2024 - October 2024)
