@@ -16,6 +16,7 @@
 <img  alt="js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img alt="php" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 <img  alt="cpp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ <img  alt="dart" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 </p>
 
 ### Tools:
@@ -77,6 +78,7 @@ Remember guys all need process and time to be a good coder , so keep learning an
 
 ### For me , project is a way to learn and develop my coding skills , so here is some of my project
 ### My Latest Project :
+- [Culture Connect App](https://github.com/BangkitCapstone2024/CultureConnect_MD) (November 2024 - Present)
 - [Ceritain Cerita Story App](https://github.com/KrishnanditoLksn/CeritainCerita)  (October 2024 - November 2024)
 - [Alpaca Discord Bot](https://github.com/KrishnanditoLksn/Alpaca)  (April 2023 - June 2024)
 - [Sorting Algorithm Visualizer](https://github.com/KrishnanditoLksn/sort_viz) (July 2024 - August 2024)
