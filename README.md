@@ -38,6 +38,7 @@
 <img alt="react" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img alt="express" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 <img alt="bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+<img alt="flutter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
 </p>
 
 ### Supported Tools:
