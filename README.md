@@ -40,7 +40,8 @@
 <img alt="express" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 <img alt="bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 <img alt="flutter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
- <img alt="compose" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/compose/compose-original.svg">
+<img alt="compose" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" />
+          
 </p>
 
 ### Supported Tools:
