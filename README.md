@@ -80,6 +80,7 @@ Remember guys all need process and time to be a good coder , so keep learning an
 
 ### For me , project is a way to learn and develop my coding skills , so here is some of my project
 ### My Latest Project :
+- [Gamingfo App](https://github.com/KrishnanditoLksn/Gamingfo) (Januari 2025 - Present)
 - [Culture Connect App](https://github.com/BangkitCapstone2024/CultureConnect_MD) (November 2024 - December 2024)
 - [Ceritain Cerita Story App](https://github.com/KrishnanditoLksn/CeritainCerita)  (October 2024 - November 2024)
 - [Alpaca Discord Bot](https://github.com/KrishnanditoLksn/Alpaca)  (April 2023 - June 2024)
